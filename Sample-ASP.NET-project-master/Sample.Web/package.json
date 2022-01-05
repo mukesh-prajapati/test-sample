@@ -30,7 +30,7 @@
         "bootstrap": "~4.1",
         "core-js": "^2.5.4",
         "date-fns": "2.0.0-alpha.9",
-        "extend2": "~1.0",
+        "extend2": "~1.0.1",
         "json-object-mapper": "~1.5",
         "rxjs": "^6.2.0",
         "rxjs-compat": "^6.2.0",
